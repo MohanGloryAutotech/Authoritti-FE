@@ -1,0 +1,25 @@
+/* You can add global styles to this file, and also import other style files */
+
+input {
+  background: transparent !important;
+  color: white !important;
+}
+
+
+body{
+  background-color: #303030;
+  color: white;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+input:focus{
+  border-color: #e91e63 !important;
+  box-shadow: 0 0 0 0.2rem #e91e63 !important;
+}
+
+
+.submit-btn{
+  background-color: #e91e63;
+  color: white;
+  width: 25%;
+}

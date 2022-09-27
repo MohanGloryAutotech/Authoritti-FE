@@ -1,0 +1,30 @@
+.loginMain {
+  height: 100%;
+  display: -webkit-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5%;
+}
+
+.logo {
+  text-align: center;
+}
+
+.user-heading {
+  margin-top: 20px;
+  font-size: 36px;
+  text-align: center;
+}
+
+.user-body {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+}
+
+.user-footer {
+  display: block;
+  margin-top: 40px;
+}
